@@ -6,6 +6,7 @@ The library uses the Structured Outputs feature of OpenAI's large language model
 
 ## Prerequisites
 
+- [Python](https://www.python.org/downloads/) 3.12+
 - [OpenAI API key](https://platform.openai.com/docs/)
 
 ## Usage
@@ -13,13 +14,13 @@ The library uses the Structured Outputs feature of OpenAI's large language model
 To use the library in your script or app:
 
 ```sh
-# TODO
+# NOT YET IMPLEMENTED
 # uv add $TBD
 ```
 
 To run the example data loader script:
 
 ```sh
-# TODO
+# NOT YET IMPLEMENTED
 # uv run $TBD
 ```
