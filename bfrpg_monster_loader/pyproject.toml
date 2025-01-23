@@ -1,0 +1,16 @@
+[project]
+name = "bfrpg-monster-loader"
+version = "0.1.0"
+description = "Loads semi-structured BFRPG monster data from plain text files into a structured format for use by other tools and applications."
+readme = "README.md"
+authors = [
+    { name = "Marsh Macy", email = "mmacy@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=1.60.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
