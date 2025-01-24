@@ -2,7 +2,7 @@
 
 A Python library for loading the semi-structured data from the `Monster-Data-*.txt` files into a structured format.
 
-The library uses the Structured Outputs feature of OpenAI's large language models to convert the monster data in the `*.txt` files to a structured (JSON) format based on the Pydantic models defined in [models.py](./monster_data_loader/src/models.py).
+The library uses the Structured Outputs feature of OpenAI's large language models to convert the monster data in the `*.txt` files to a structured (JSON) format based on the Pydantic models defined in [models.py](./src/bfrpg_monster_loader/models.py).
 
 ## Prerequisites
 
